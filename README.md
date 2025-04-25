@@ -15,5 +15,5 @@ The application was designed to offer a lightweight and user-friendly solution f
 Microsoft Access RunTime 2007
 
 ## Login
-User: Admin
-Password: admin
+- User: Admin
+- Password: admin
